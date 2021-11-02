@@ -165,7 +165,6 @@ miércoles,miércoles,NOUN,AdvType=Tim
 31,31,NUM,NumForm=Digit|NumType=Card
 de,de,ADP,AdpType=Prep
 julio,julio,NOUN,
-     ,     ,SPACE,
 entrega,entrega,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
 material,material,NOUN,Gender=Masc|Number=Sing
@@ -430,7 +429,7 @@ caminos,camino,NOUN,Gender=Masc|Number=Plur
 remarcó,remarcar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 mandatario,mandatario,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
+ , ,SPACE,
 dos,dos,NUM,NumType=Card|Number=Plur
 nuevos,nuevo,ADJ,Gender=Masc|Number=Plur
 vehículos,vehículo,NOUN,Gender=Masc|Number=Plur
@@ -607,8 +606,7 @@ presentación,presentación,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 nuevo,nuevo,ADJ,Gender=Masc|Number=Sing
-     ,     ,SPACE,
-vivienda,viviendar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+vivienda,vivienda,NOUN,Gender=Fem|Number=Sing
 ippv,ippv,VERB,Mood=Imp|Number=Sing|Person=3|VerbForm=Fin
 en,en,ADP,AdpType=Prep
 cipolletti,cipolletti,PROPN,
@@ -779,7 +777,6 @@ provincial,provincial,ADJ,Number=Sing
 dijo,decir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 mandatario,mandatario,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
 y,y,CCONJ,
 dirán,decir,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
 qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
@@ -1074,7 +1071,6 @@ que,que,PRON,"PronType=Int,Rel"
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 acumulado,acumulado,ADJ,Gender=Masc|Number=Sing|VerbForm=Part
-     ,     ,SPACE,
 desde,desde,ADP,AdpType=Prep
 este,este,DET,Gender=Masc|Number=Sing|PronType=Dem
 lugar,lugar,NOUN,Gender=Masc|Number=Sing
@@ -1230,8 +1226,7 @@ a,a,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 gobernador,gobernador,NOUN,Gender=Masc|Number=Sing
 que,que,PRON,"PronType=Int,Rel"
- , ,SPACE,
-rechazamos,rechacer,VERB,Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+rechazamos,rechazar,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 decisión,decisión,NOUN,Gender=Fem|Number=Sing
 unilateral,unilateral,ADJ,Number=Sing
@@ -1253,7 +1248,6 @@ salarial,salarial,ADJ,Number=Sing
 lejano,lejano,ADJ,Gender=Masc|Number=Sing
 a,a,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
-     ,     ,SPACE,
 de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 gobierno,gobierno,PROPN,
@@ -1435,7 +1429,6 @@ el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 proceso,proceso,NOUN,Gender=Masc|Number=Sing
 inflacionario,inflacionario,ADJ,Gender=Masc|Number=Sing
 que,que,SCONJ,
-     ,     ,SPACE,
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 aumento,aumento,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
@@ -1617,8 +1610,7 @@ de,de,ADP,AdpType=Prep
 todas,todo,PRON,Gender=Fem|Number=Plur|PronType=Tot
 y,y,CCONJ,
 todos,todo,DET,Gender=Masc|Number=Plur|PronType=Tot
-     ,     ,SPACE,
-extractivas,extractiva,NOUN,Gender=Fem|Number=Plur
+extractivas,extractiva,ADJ,Gender=Fem|Number=Plur
 que,que,PRON,"PronType=Int,Rel"
 afectan,afectar,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
@@ -1795,7 +1787,6 @@ movilización,movilización,NOUN,Gender=Fem|Number=Sing
 nacional,nacional,ADJ,Number=Sing
 convocada,convocado,ADJ,Gender=Fem|Number=Sing|VerbForm=Part
 por,por,ADP,AdpType=Prep
-     ,     ,SPACE,
 le,él,PRON,Case=Dat|Number=Sing|Person=3|PronType=Prs
 a,a,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
@@ -1969,7 +1960,6 @@ riqueza,riqueza,NOUN,Gender=Fem|Number=Sing
 más,más,ADV,Degree=Cmp
 inclusión,inclusión,NOUN,Gender=Fem|Number=Sing
 social,social,ADJ,Number=Sing
-     ,     ,SPACE,
 lo,él,PRON,Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs
 que,que,PRON,"PronType=Int,Rel"
 ha,haber,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -2141,8 +2131,7 @@ para,para,ADP,AdpType=Prep
 evitar,evitar,VERB,VerbForm=Inf
 males,mal,NOUN,Gender=Masc|Number=Plur
 mayores,mayor,ADJ,Degree=Cmp|Number=Plur
-     ,     ,SPACE,
-junta,junta,PROPN,
+junta,junta,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
 extremadura,extremadura,PROPN,
 recibió,recibir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
@@ -2270,13 +2259,11 @@ de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 sal,sal,NOUN,Gender=Fem|Number=Sing
 e,e,CCONJ,
- , ,SPACE,
 colegios,colegio,NOUN,Gender=Masc|Number=Plur
 en,en,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 que,que,PRON,"PronType=Int,Rel"
-estudié,estudié,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
- , ,SPACE,
+estudié,estudié,PROPN,
 nos,yo,PRON,"Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs"
 asustaban,asustar,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
 con,con,ADP,AdpType=Prep
@@ -2298,7 +2285,6 @@ imbecilidad,imbecilidad,NOUN,Gender=Fem|Number=Sing
 seis,seis,NUM,NumType=Card|Number=Plur
 décadas,década,NOUN,Gender=Fem|Number=Plur
 después,después,ADV,
-¡,¡,PUNCT,PunctSide=Ini|PunctType=Excl
 clases,clase,NOUN,Gender=Fem|Number=Plur
 de,de,ADP,AdpType=Prep
 paja,paja,NOUN,Gender=Fem|Number=Sing
@@ -2311,8 +2297,7 @@ el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 progreso,progreso,NOUN,Gender=Masc|Number=Sing
 señores,señor,ADJ,Number=Plur
 ¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
-qué,qué,DET,"PronType=Int,Rel"
-     ,     ,SPACE,
+qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
 de,de,ADP,AdpType=Prep
 excelencia,excelencia,NOUN,Gender=Fem|Number=Sing
 y,y,CCONJ,
@@ -2321,7 +2306,6 @@ fiascos,fiasco,NOUN,Gender=Masc|Number=Plur
 para,para,ADP,AdpType=Prep
 ser,ser,AUX,VerbForm=Inf
 desaprobados,desaprobar,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 dependerá,depender,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
 de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
@@ -2490,8 +2474,7 @@ ejercicio,ejercicio,NOUN,Gender=Masc|Number=Sing
 sin,sin,ADP,AdpType=Prep
 misterio,misterio,NOUN,Gender=Masc|Number=Sing
 disociado,disociado,ADJ,Gender=Masc|Number=Sing|VerbForm=Part
-     ,     ,SPACE,
-modo,modo,NOUN,
+modo,modo,ADV,
 a,a,ADP,AdpType=Prep
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
 futuras,futuro,ADJ,Gender=Fem|Number=Plur
@@ -2666,9 +2649,8 @@ instruyéndo,instruyéndo,VERB,VerbForm=Ger
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 sobre,sobre,ADP,AdpType=Prep
 asuntos,asunto,NOUN,Gender=Masc|Number=Plur
-capitales,capital,ADJ,Number=Plur
+capitales,capitales,PROPN,
 como,como,SCONJ,
-     ,     ,SPACE,
 placer,placer,NOUN,Gender=Masc|Number=Sing
 por,por,ADP,AdpType=Prep
 eso,ese,PRON,Number=Sing|PronType=Dem
@@ -2843,9 +2825,8 @@ hora,hora,NOUN,Gender=Fem|Number=Sing
 pero,pero,CCONJ,
 también,también,ADV,
 podría,poder,AUX,Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin
-     ,     ,SPACE,
 acaso,acaso,ADV,
-acabe,acabar,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+acabe,acabir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 con,con,ADP,AdpType=Prep
 él,él,PRON,"Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs"
 ¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
@@ -2911,7 +2892,6 @@ en,en,ADP,AdpType=Prep
 verdad,verdad,NOUN,
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 anterior,anterior,ADJ,Number=Sing
- , ,SPACE,
 comenzó,comenzar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 en,en,ADP,AdpType=Prep
 parís,parís,PROPN,
@@ -3011,7 +2991,6 @@ y,y,CCONJ,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 represión,represión,NOUN,Gender=Fem|Number=Sing
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
-     ,     ,SPACE,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 mujer,mujer,NOUN,Gender=Fem|Number=Sing
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
@@ -3187,7 +3166,6 @@ las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
 iglesias,iglesia,NOUN,Gender=Fem|Number=Plur
 debe,deber,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 inmiscuir,inmiscuir,VERB,VerbForm=Inf
-     ,     ,SPACE,
 por,por,ADP,AdpType=Prep
 supuesto,supuesto,NOUN,
 pero,pero,CCONJ,
@@ -3355,7 +3333,6 @@ ser,ser,AUX,VerbForm=Inf
 único,único,ADJ,Gender=Masc|Number=Sing
 e,e,CCONJ,
 intransferible,intransferible,ADJ,Number=Sing
-     ,     ,SPACE,
 de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 individuo,individuo,NOUN,Gender=Masc|Number=Sing
@@ -3523,7 +3500,6 @@ el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 amor,amor,NOUN,Gender=Masc|Number=Sing
 físico,físico,ADJ,Gender=Masc|Number=Sing
 su,su,DET,Number=Sing|Person=3|Poss=Yes|PronType=Prs
-     ,     ,SPACE,
 a,a,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 progreso,progreso,NOUN,Gender=Masc|Number=Sing
@@ -3698,7 +3674,6 @@ pintura,pintura,NOUN,Gender=Fem|Number=Sing
 literatura,literatura,NOUN,Gender=Fem|Number=Sing
 música,músico,ADJ,Gender=Fem|Number=Sing
 escultura,escultura,NOUN,Gender=Fem|Number=Sing
-     ,     ,SPACE,
 humana,humano,ADJ,Gender=Fem|Number=Sing
 han,haber,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 contribuido,contribuir,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
@@ -3841,10 +3816,8 @@ instinto,instinto,NOUN,Gender=Masc|Number=Sing
 vital,vital,ADJ,Number=Sing
 y,y,CCONJ,
 creativo,creativo,ADJ,Gender=Masc|Number=Sing
- , ,SPACE,
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 eros,ero,NOUN,Gender=Masc|Number=Plur
- , ,SPACE,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 condición,condición,NOUN,Gender=Fem|Number=Sing
 humana,humano,ADJ,Gender=Fem|Number=Sing
@@ -3878,7 +3851,6 @@ una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
 violencia,violencia,NOUN,Gender=Fem|Number=Sing
 vertiginosa,vertiginoso,ADJ,Gender=Fem|Number=Sing
 como,como,SCONJ,
-     ,     ,SPACE,
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 marqués,marqués,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
@@ -4050,7 +4022,6 @@ y,y,CCONJ,
 lápices,lápices,PROPN,
 después,después,ADV,
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
 con,con,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 nombres,nombre,NOUN,Gender=Masc|Number=Plur
@@ -4227,9 +4198,8 @@ planta,planta,NOUN,Gender=Fem|Number=Sing
 baja,bajo,ADJ,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
-     ,     ,SPACE,
 allí,allí,ADV,
-descubrí,descubrí,PROPN,
+descubrí,descubrí,NOUN,Gender=Fem|Number=Sing
 con,con,ADP,AdpType=Prep
 felicidad,felicidad,NOUN,Gender=Fem|Number=Sing
 disimulados,disimulado,ADJ,Gender=Masc|Number=Plur|VerbForm=Part
@@ -4400,7 +4370,6 @@ sentido,sentido,NOUN,Gender=Masc|Number=Sing
 primario,primario,ADJ,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
 ese,ese,DET,Gender=Masc|Number=Sing|PronType=Dem
-     ,     ,SPACE,
 o,o,CCONJ,
 desafía,desafíar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 a,a,ADP,AdpType=Prep
@@ -4558,12 +4527,10 @@ las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
 sujeciones,sujeción,NOUN,Gender=Fem|Number=Plur
 y,y,CCONJ,
 servidumbres,servidumbre,NOUN,Gender=Fem|Number=Plur
- , ,SPACE,
-religiosas,religiosa,NOUN,Gender=Fem|Number=Plur
+religiosas,religioso,ADJ,Gender=Fem|Number=Plur
 morales,moral,ADJ,Number=Plur
 y,y,CCONJ,
 políticas,política,ADJ,Gender=Fem|Number=Plur
- , ,SPACE,
 que,que,PRON,"PronType=Int,Rel"
 restringen,restringir,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
@@ -4574,7 +4541,6 @@ libre,libre,ADJ,Number=Sing
 albedrío,albedrío,NOUN,Gender=Masc|Number=Sing
 a,a,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
-     ,     ,SPACE,
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 derecho,derecho,NOUN,Gender=Masc|Number=Sing
 que,que,PRON,"PronType=Int,Rel"
@@ -4750,8 +4716,7 @@ un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 producto,producto,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
-alta,alta,NOUN,
-     ,     ,SPACE,
+alta,alto,ADJ,Gender=Fem|Number=Sing
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
 gentes,gente,NOUN,Gender=Fem|Number=Plur
 primitivas,primitivo,ADJ,Gender=Fem|Number=Plur
@@ -4901,7 +4866,6 @@ un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 ejercicio,ejercicio,NOUN,Gender=Masc|Number=Sing
 puramente,puramente,ADV,
 físico,físico,ADJ,Gender=Masc|Number=Sing
- , ,SPACE,
 una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
 pulsión,pulsión,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
@@ -4923,7 +4887,6 @@ son,ser,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 meros,mero,NOUN,Gender=Masc|Number=Plur
 instrumentos,instrumento,ADJ,Gender=Masc|Number=Plur
 pasivos,pasivo,ADJ,Gender=Masc|Number=Plur
-     ,     ,SPACE,
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 o,o,CCONJ,
 nos,yo,PRON,"Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs"
@@ -5012,7 +4975,6 @@ de,de,ADP,AdpType=Prep
 sentimiento,sentimiento,NOUN,Gender=Masc|Number=Sing
 y,y,CCONJ,
 elegancia,elegancia,NOUN,Gender=Fem|Number=Sing
- , ,SPACE,
 de,de,ADP,AdpType=Prep
 mise,mise,NOUN,Gender=Fem|Number=Sing
 en,en,ADP,AdpType=Prep
@@ -5020,7 +4982,6 @@ scène,scène,NOUN,
 y,y,CCONJ,
 de,de,ADP,AdpType=Prep
 rito,rito,NOUN,Gender=Masc|Number=Sing
- , ,SPACE,
 convertido,convertido,ADJ,Gender=Masc|Number=Sing|VerbForm=Part
 en,en,ADP,AdpType=Prep
 mera,mero,ADJ,Gender=Fem|Number=Sing
@@ -5095,7 +5056,6 @@ de,de,ADP,AdpType=Prep
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 paso,paso,NOUN,Gender=Masc|Number=Sing
 audaz,audaz,ADJ,Number=Sing
-     ,     ,SPACE,
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 dominio,dominio,NOUN,Gender=Masc|Number=Sing
 sexual,sexual,ADJ,Number=Sing
@@ -5268,7 +5228,6 @@ deseo,deseo,NOUN,Gender=Masc|Number=Sing
 compartidos,compartido,ADJ,Gender=Masc|Number=Plur|VerbForm=Part
 chatcrypt,chatcrypt,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 salones,salón,NOUN,Gender=Masc|Number=Plur
-     ,     ,SPACE,
 que,que,PRON,"PronType=Int,Rel"
 utiliza,utilizar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
@@ -5353,7 +5312,6 @@ integran,integrar,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 c,c,NOUN,Gender=Masc|Number=Sing
 manifestaron,manifestar,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
- , ,SPACE,
 mediante,mediante,ADP,AdpType=Prep
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 comunicado,comunicado,NOUN,Gender=Masc|Number=Sing
@@ -5465,9 +5423,8 @@ democráticos,democrático,ADJ,Gender=Masc|Number=Plur
 hoy,hoy,ADV,
 vemos,ver,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
 y,y,CCONJ,
-padecemos,padecer,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
-     ,     ,SPACE,
-salvaje,salvaje,ADJ,Number=Sing
+padecemos,padecemo,ADJ,Degree=Sup|Gender=Masc|Number=Plur
+salvaje,salvaje,NOUN,Gender=Masc|Number=Sing
 no,no,PART,
 solo,solo,NOUN,
 a,a,ADP,AdpType=Prep
@@ -5637,7 +5594,7 @@ corte,corte,PROPN,
 suprema,suprema,PROPN,
 de,de,ADP,AdpType=Prep
 justicia,justicia,NOUN,Gender=Fem|Number=Sing
-     ,     ,SPACE,
+ , ,SPACE,
 entrada,entrada,NOUN,Gender=Fem|Number=Sing
 fue,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 publicada,publicar,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part
@@ -5848,7 +5805,6 @@ era,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
 camino,camino,NOUN,Gender=Masc|Number=Sing
 recto,recto,ADJ,Gender=Masc|Number=Sing
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
-     ,     ,SPACE,
 no,no,ADV,Polarity=Neg
 representaba,representar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
 a,a,ADP,AdpType=Prep
@@ -6011,8 +5967,7 @@ y,y,CCONJ,
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 bueno,bueno,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
-walt,walt,NOUN,
-     ,     ,SPACE,
+walt,walt,PROPN,
 que,que,PRON,"PronType=Int,Rel"
 significaba,significar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
 una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
@@ -6181,8 +6136,7 @@ y,y,CCONJ,
 su,su,DET,Number=Sing|Person=3|Poss=Yes|PronType=Prs
 despliegue,despliegue,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
-glamour,glamour,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
+glamour,glamour,NOUN,Gender=Fem|Number=Sing
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 gaucho,gaucho,NOUN,Gender=Masc|Number=Sing
 no,no,ADV,Polarity=Neg
@@ -6350,7 +6304,6 @@ podría,poder,AUX,Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin
 ayudar,ayudar,VERB,VerbForm=Inf
 a,a,ADP,AdpType=Prep
 torcer,torcer,VERB,VerbForm=Inf
-     ,     ,SPACE,
 con,con,ADP,AdpType=Prep
 métodos,método,NOUN,Gender=Masc|Number=Plur
 más,más,ADV,Degree=Cmp
@@ -6515,8 +6468,7 @@ de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 arte,arte,NOUN,Number=Sing
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
-perón,perón,ADJ,Gender=Masc|Number=Sing
+perón,perón,NOUN,Gender=Masc|Number=Sing
 que,que,PRON,"PronType=Int,Rel"
 tanto,tanto,DET,Gender=Masc|NumType=Card|Number=Sing|PronType=Dem
 mito,mito,NOUN,Gender=Masc|Number=Sing
@@ -6684,8 +6636,7 @@ de,de,ADP,AdpType=Prep
 mirar,mirar,VERB,VerbForm=Inf
 y,y,CCONJ,
 compartir,compartir,VERB,VerbForm=Inf
-     ,     ,SPACE,
-evoque,evocar,VERB,Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+evoque,evoque,SCONJ,
 estos,este,DET,Gender=Masc|Number=Plur|PronType=Dem
 principios,principio,NOUN,Gender=Masc|Number=Plur
 y,y,CCONJ,
@@ -6695,10 +6646,9 @@ sabor,sabor,NOUN,Gender=Masc|Number=Sing
 seguinos,segui yo,VERB,"Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|VerbForm=Inf"
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 piel,piel,NOUN,Gender=Fem|Number=Sing
-que,que,SCONJ,
-habito,habito,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
- , ,SPACE,
-crítica,crítica,NOUN,Gender=Fem|Number=Sing
+que,que,PRON,"PronType=Int,Rel"
+habito,habito,NOUN,Gender=Masc|Number=Sing
+crítica,crítico,ADJ,Gender=Fem|Number=Sing
 ya,ya,ADV,
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 sabe,saber,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -6865,7 +6815,6 @@ son,ser,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
 primeras,primero,ADJ,Gender=Fem|NumType=Ord|Number=Plur
 palabras,palabra,NOUN,Gender=Fem|Number=Plur
-     ,     ,SPACE,
 quien,quien,PRON,"Number=Sing|PronType=Int,Rel"
 obsesionado,obsesionado,ADJ,Gender=Masc|Number=Sing|VerbForm=Part
 luego,luego,ADV,
@@ -6907,7 +6856,6 @@ la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 bellísima,bellísima,NOUN,Gender=Fem|Number=Sing
 elena,elena,PROPN,
 anaya,anayar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
- , ,SPACE,
 quien,quien,PRON,"Number=Sing|PronType=Int,Rel"
 reside,residir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 hace,hacer,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -6984,7 +6932,6 @@ cautiverio,cautiverio,NOUN,Gender=Masc|Number=Sing
 pero,pero,CCONJ,
 quién,quién,PRON,"Number=Sing|PronType=Int,Rel"
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 cómo,cómo,PRON,PronType=Ind
 llegó,llegar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 allí,allí,ADV,
@@ -6993,7 +6940,6 @@ la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 pregunta,pregunta,NOUN,Gender=Fem|Number=Sing
 más,más,ADV,Degree=Cmp
 importante,importante,ADJ,Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 por,por,ADP,AdpType=Prep
 qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
 ni,ni,CCONJ,
@@ -7039,8 +6985,7 @@ de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 esposa,esposa,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
-síndrome,síndrome,NOUN,
+síndrome,síndrome,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
 estocolmo,estocolmo,NOUN,Gender=Masc|Number=Sing
 a,a,ADP,AdpType=Prep
@@ -7218,7 +7163,6 @@ además,además,ADV,
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
 interpretaciones,interpretación,NOUN,Gender=Fem|Number=Plur
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 personaje,personaje,NOUN,Gender=Masc|Number=Sing
 complejo,complejo,ADJ,Gender=Masc|Number=Sing
@@ -7374,9 +7318,8 @@ instituto,instituto,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
 tecnología,tecnología,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
-california,california,NOUN,Gender=Fem|Number=Sing
-caltech,caltech,NOUN,Gender=Masc|Number=Sing
- , ,SPACE,
+california,california,PROPN,
+caltech,caltech,PROPN,
 en,en,ADP,AdpType=Prep
 eeuu,eeuu,PROPN,
 ha,haber,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -7496,7 +7439,6 @@ inutilizado,inutilizado,ADJ,Gender=Masc|Number=Sing|VerbForm=Part
 razón,razón,NOUN,Gender=Fem|Number=Sing
 por,por,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
-     ,     ,SPACE,
 a,a,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 chips,chip,NOUN,Gender=Masc|Number=Plur
@@ -7655,9 +7597,8 @@ instituto,instituto,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
 tecnología,tecnología,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
-california,california,NOUN,Gender=Fem|Number=Sing
-caltech,caltech,NOUN,Gender=Masc|Number=Sing
- , ,SPACE,
+california,california,PROPN,
+caltech,caltech,PROPN,
 en,en,ADP,AdpType=Prep
 eeuu,eeuu,PROPN,
 ha,haber,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -7670,7 +7611,6 @@ en,en,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 experimentos,experimento,NOUN,Gender=Masc|Number=Plur
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
-     ,     ,SPACE,
 total,total,ADJ,Number=Sing
 de,de,ADP,AdpType=Prep
 76,76,NUM,NumForm=Digit|NumType=Card
@@ -7847,7 +7787,6 @@ cerebro,cerebro,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 sistema,sistema,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
 si,si,SCONJ,
 alguna,alguno,DET,Gender=Fem|Number=Sing|PronType=Ind
 parte,parte,NOUN,Gender=Fem|Number=Sing
@@ -8114,8 +8053,7 @@ haciendo,hacer,VERB,VerbForm=Ger
 esfuerzos,esfuerzo,NOUN,Gender=Masc|Number=Plur
 hasta,hasta,ADP,AdpType=Prep
 que,que,SCONJ,
-dispuesta,dispuesto,ADJ,Gender=Fem|Number=Sing|VerbForm=Part
-     ,     ,SPACE,
+dispuesta,dispuesta,NOUN,Gender=Fem|Number=Sing
 auténtica,auténtico,ADJ,Gender=Fem|Number=Sing
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 dejaba,dejar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
@@ -8358,8 +8296,7 @@ fabricar,fabricar,VERB,VerbForm=Inf
 estos,este,DET,Gender=Masc|Number=Plur|PronType=Dem
 modelos,modelo,NOUN,Gender=Masc|Number=Plur
 que,que,PRON,"PronType=Int,Rel"
-hasta,hasta,ADP,AdpType=Prep
-     ,     ,SPACE,
+hasta,hasta,ADV,
 de,de,ADP,AdpType=Prep
 pesos,pesos,NOUN,NumForm=Digit
 y,y,CCONJ,
@@ -8387,7 +8324,6 @@ y,y,CCONJ,
 atron,atron,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
 1634,1634,NOUN,AdvType=Tim
 pesado,pesado,ADJ,Gender=Masc|Number=Sing
- , ,SPACE,
 con,con,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 que,que,PRON,"PronType=Int,Rel"
@@ -8533,7 +8469,6 @@ atron,atron,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
 pero,pero,CCONJ,
 no,no,ADV,Polarity=Neg
 fabricaba,fabricar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
-    ,    ,SPACE,
  , ,SPACE,
 no,no,ADV,Polarity=Neg
 hay,haber,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -8610,8 +8545,7 @@ capacidad,capacidad,NOUN,Gender=Fem|Number=Sing
 económica,económico,ADJ,Gender=Fem|Number=Sing
 deudor,deudor,ADJ,Gender=Masc|Number=Sing
 o,o,CCONJ,
-acreedor,acreedor,NOUN,Gender=Masc|Number=Sing
- , ,SPACE,
+acreedor,acreedor,ADJ,Gender=Masc|Number=Sing
 su,su,DET,Number=Sing|Person=3|Poss=Yes|PronType=Prs
 capacidad,capacidad,NOUN,Gender=Fem|Number=Sing
 militar,militar,ADJ,Number=Sing
@@ -8698,7 +8632,6 @@ cohesión,cohesión,NOUN,Gender=Fem|Number=Sing
 social,social,ADJ,Number=Sing
 y,y,CCONJ,
 vulnera,vulnerar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
-     ,     ,SPACE,
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 de,de,ADP,AdpType=Prep
 origen,origen,NOUN,Gender=Masc|Number=Sing
@@ -8712,7 +8645,6 @@ enfermedades,enfermedad,NOUN,Gender=Fem|Number=Plur
 paludismo,paludismo,ADJ,Gender=Masc|Number=Sing
 y,y,CCONJ,
 tuberculosis,tuberculosis,NOUN,Gender=Fem
- , ,SPACE,
 otros,otro,DET,Gender=Masc|Number=Plur|PronType=Ind
 riesgos,riesgo,NOUN,Gender=Masc|Number=Plur
 a,a,ADP,AdpType=Prep
@@ -8871,7 +8803,6 @@ que,que,SCONJ,
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 hombres,hombre,NOUN,Gender=Masc|Number=Plur
 buenos,buen,ADJ,Gender=Masc|Number=Plur
-     ,     ,SPACE,
 adversarios,adversario,NOUN,Gender=Masc|Number=Plur
 con,con,ADP,AdpType=Prep
 rivales,rival,NOUN,Number=Plur
@@ -9041,7 +8972,6 @@ uso,uso,NOUN,Gender=Masc|Number=Sing
 racional,racional,ADJ,Number=Sing
 de,de,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
-     ,     ,SPACE,
 en,en,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 nivel,nivel,NOUN,Gender=Masc|Number=Sing
@@ -9397,7 +9327,6 @@ con,con,ADP,AdpType=Prep
 más,más,ADV,Degree=Cmp
 facilidad,facilidad,NOUN,Gender=Fem|Number=Sing
 que,que,SCONJ,
-     ,     ,SPACE,
 y,y,CCONJ,
 lo,él,PRON,Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs
 hacen,hacer,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
@@ -9438,8 +9367,7 @@ y,y,CCONJ,
 jóvenes,joven,NOUN,Number=Plur
 con,con,ADP,AdpType=Prep
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
-tic,tic,PROPN,
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
+tic,tic,NOUN,Gender=Fem|Number=Sing
 qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
 hacen,hacer,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 con,con,ADP,AdpType=Prep
@@ -9569,8 +9497,7 @@ presente,presente,ADJ,Number=Sing
 y,y,CCONJ,
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 futuro,futuro,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
-chicas,chica,NOUN,Gender=Fem|Number=Plur
+chicas,chica,ADJ,Gender=Fem|Number=Plur
 juegan,jugar,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 charlan,charlar,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 investigan,investigar,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
@@ -9738,7 +9665,6 @@ que,que,PRON,"PronType=Int,Rel"
 los,él,PRON,Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs
 distraen,distraer,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 y,y,CCONJ,
-     ,     ,SPACE,
 en,en,ADP,AdpType=Prep
 algunos,alguno,DET,Gender=Masc|Number=Plur|PronType=Ind
 casos,caso,NOUN,Gender=Masc|Number=Plur
@@ -9918,7 +9844,6 @@ ofrecen,ofrecer,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 muchas,mucho,DET,Gender=Fem|NumType=Card|Number=Plur|PronType=Ind
 ventajas,ventaja,NOUN,Gender=Fem|Number=Plur
 y,y,CCONJ,
-     ,     ,SPACE,
 amedrentar,amedrentar,VERB,VerbForm=Inf
 nos,yo,PRON,"Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs"
 tenemos,tener,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
@@ -9932,8 +9857,7 @@ esto,este,PRON,Number=Sing|PronType=Dem
 nos,yo,PRON,"Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 referimos,referir,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
 a,a,ADP,AdpType=Prep
- , ,SPACE,
-que,que,PRON,"PronType=Int,Rel"
+que,que,SCONJ,
 cuando,cuando,SCONJ,
 chateamos,chatear,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
 o,o,CCONJ,
@@ -10095,7 +10019,6 @@ cuándo,cuándo,PRON,PronType=Ind
 que,que,PRON,"PronType=Int,Rel"
 muchas,mucho,DET,Gender=Fem|NumType=Card|Number=Plur|PronType=Ind
 veces,vez,NOUN,Gender=Fem|Number=Plur
-     ,     ,SPACE,
 donde,donde,PRON,PronType=Ind
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 producen,producir,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
@@ -10266,9 +10189,8 @@ necesidades,necesidad,NOUN,Gender=Fem|Number=Plur
 básicas,básico,ADJ,Gender=Fem|Number=Plur
 ambos,ambos,NUM,Gender=Masc|NumType=Card|Number=Plur
 espacios,espacio,NOUN,Gender=Masc|Number=Plur
-escuela,escuela,ADJ,
+escuela,escuela,PROPN,
 y,y,CCONJ,
-     ,     ,SPACE,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 relación,relación,NOUN,Gender=Fem|Number=Sing
 entre,entre,ADP,AdpType=Prep
@@ -10434,7 +10356,6 @@ y,y,CCONJ,
 jóvenes,joven,NOUN,Number=Plur
 ya,ya,ADV,
 nadie,nadie,PRON,Number=Sing|PronType=Neg
-     ,     ,SPACE,
 gran,gran,ADJ,Number=Sing
 alivio,alivio,NOUN,Gender=Masc|Number=Sing
 comprender,comprender,VERB,VerbForm=Inf
@@ -10506,8 +10427,7 @@ qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
 podemos,poder,AUX,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
 hacer,hacer,VERB,VerbForm=Inf
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
-docentes,docente,ADJ,Number=Plur
- , ,SPACE,
+docentes,docente,NOUN,Number=Plur
 estar,estar,AUX,VerbForm=Inf
 alertas,alerta,ADJ,Number=Plur
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
@@ -10613,7 +10533,6 @@ preferible,preferible,ADJ,Number=Sing
 arriesgar,arriesgar,VERB,VerbForm=Inf
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 a,a,ADP,AdpType=Prep
-     ,     ,SPACE,
 considerar,considerar,VERB,VerbForm=Inf
 lo,él,PRON,Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs
 a,a,ADP,AdpType=Prep
@@ -10904,7 +10823,6 @@ singapur,singapur,PROPN,
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
 prueba,prueba,NOUN,Gender=Fem|Number=Sing
-     ,     ,SPACE,
 intensificará,intensificar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 tema,tema,NOUN,Gender=Masc|Number=Sing
@@ -11081,7 +10999,6 @@ importante,importante,ADJ,Number=Sing
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 comentarios,comentario,NOUN,Gender=Masc|Number=Plur
 publicados,publicado,ADJ,Gender=Masc|Number=Plur|VerbForm=Part
-     ,     ,SPACE,
 derivadas,derivado,ADJ,Gender=Fem|Number=Plur|VerbForm=Part
 de,de,ADP,AdpType=Prep
 ellos,él,PRON,"Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs"
@@ -11298,9 +11215,8 @@ a,a,ADP,AdpType=Prep
 entradas,entrada,NOUN,Gender=Fem|Number=Plur
 vendidas,vendido,ADJ,Gender=Fem|Number=Plur|VerbForm=Part
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
-     ,     ,SPACE,
 no,no,ADV,Polarity=Neg
-cine,cenar,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+cine,cine,NOUN,Gender=Masc|Number=Sing
 ¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
 quiere,querer,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -11471,7 +11387,6 @@ con,con,ADP,AdpType=Prep
 algo,algo,PRON,Number=Sing|PronType=Ind
 más,más,ADV,Degree=Cmp
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
 está,estar,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 solo,solo,ADJ,Gender=Masc|Number=Sing
 intenta,intentar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -11639,7 +11554,6 @@ este,este,DET,Gender=Masc|Number=Sing|PronType=Dem
 caso,caso,NOUN,Gender=Masc|Number=Sing
 kaurismaki,kaurismaki,PROPN,
 bucea,bucear,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
-     ,     ,SPACE,
 sociedad,sociedad,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
 ese,ese,DET,Gender=Masc|Number=Sing|PronType=Dem
@@ -11813,7 +11727,6 @@ salir,salir,VERB,VerbForm=Inf
 de,de,ADP,AdpType=Prep
 prisión,prisión,NOUN,Gender=Fem|Number=Sing
 condenado,condenado,ADJ,Gender=Masc|Number=Sing|VerbForm=Part
-     ,     ,SPACE,
 de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 mundo,mundo,NOUN,Gender=Masc|Number=Sing
@@ -11930,7 +11843,6 @@ sólo,sólo,ADV,
 a,a,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 dirección,dirección,NOUN,Gender=Fem|Number=Sing
- , ,SPACE,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 película,película,NOUN,Gender=Fem|Number=Sing
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -11984,7 +11896,6 @@ con,con,ADP,AdpType=Prep
 momentos,momento,NOUN,Gender=Masc|Number=Plur
 dramáticos,dramático,ADJ,Gender=Masc|Number=Plur
 pero,pero,CCONJ,
-     ,     ,SPACE,
 solo,solo,ADJ,Gender=Masc|Number=Sing
 pretendo,pretendo,VERB,VerbForm=Ger
 ser,ser,AUX,VerbForm=Inf
@@ -12164,7 +12075,6 @@ vez,vez,NOUN,
 por,por,ADP,AdpType=Prep
 todas,todo,PRON,Gender=Fem|Number=Plur|PronType=Tot
 1,1,NUM,NumForm=Digit|NumType=Card
-     ,     ,SPACE,
 o,o,CCONJ,
 tal,tal,NOUN,
 vez,vez,NOUN,
@@ -12343,9 +12253,8 @@ dedique,dedicar,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 a,a,ADP,AdpType=Prep
 una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
 profunda,profundo,ADJ,Gender=Fem|Number=Sing
-autocritica,autocritica,NOUN,Gender=Fem|Number=Sing
-     ,     ,SPACE,
-alerta,alertar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+autocritica,autocritico,ADJ,Gender=Fem|Number=Sing
+alerta,alerta,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 moral,moral,NOUN,Gender=Fem|Number=Sing
@@ -12470,7 +12379,6 @@ hammas,hamma,NOUN,Gender=Fem|Number=Plur
 con,con,ADP,AdpType=Prep
 financiamiento,financiamiento,NOUN,Gender=Masc|Number=Sing
 norteamericano,norteamericano,ADJ,Gender=Masc|Number=Sing
- , ,SPACE,
 europeo,europeo,ADJ,Gender=Masc|Number=Sing
 y,y,CCONJ,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
@@ -12526,8 +12434,7 @@ extravagantes,extravagant,ADJ,Number=Plur
 o,o,CCONJ,
 artículos,artículo,NOUN,Gender=Masc|Number=Plur
 excéntricos,excéntrico,ADJ,Gender=Masc|Number=Plur
-     ,     ,SPACE,
-institución,institución,NOUN,Gender=Fem|Number=Sing
+institución,institución,ADJ,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 estado,estado,NOUN,Gender=Masc|Number=Sing
@@ -12707,7 +12614,6 @@ de,de,ADP,AdpType=Prep
 estupideces,estupidez,NOUN,Gender=Fem|Number=Plur
 como,como,SCONJ,
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
-     ,     ,SPACE,
 de,de,ADP,AdpType=Prep
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 estado,estado,NOUN,Gender=Masc|Number=Sing
@@ -12880,8 +12786,7 @@ y,y,CCONJ,
 representante,representante,NOUN,Number=Sing
 de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
-likud,likud,NOUN,
-     ,     ,SPACE,
+likud,likud,NOUN,Gender=Fem|Number=Sing
 a,a,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 palestinos,palestino,NOUN,Gender=Masc|Number=Plur
@@ -13051,7 +12956,6 @@ de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 estado,estado,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 trata,tratar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 de,de,ADP,AdpType=Prep
@@ -13229,7 +13133,6 @@ como,como,SCONJ,
 sud,sud,PROPN,
 áfrica,áfrica,PROPN,
 tenemos,tener,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
-     ,     ,SPACE,
 otorgar,otorgar,VERB,VerbForm=Inf
 ciudadanía,ciudadanía,NOUN,Gender=Fem|Number=Sing
 israelí,israelí,ADJ,Number=Sing
@@ -13401,7 +13304,6 @@ por,por,ADP,AdpType=Prep
 sus,su,DET,Number=Plur|Person=3|Poss=Yes|PronType=Prs
 significativos,significativo,ADJ,Gender=Masc|Number=Plur
 éxitos,éxito,NOUN,Gender=Masc|Number=Plur
-    ,    ,SPACE,
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 últimos,último,ADJ,Gender=Masc|NumType=Ord|Number=Plur
 años,año,NOUN,Gender=Masc|Number=Plur
@@ -13579,7 +13481,6 @@ jordán,jordán,PROPN,
 durante,durante,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 próximos,próximo,NOUN,Gender=Masc|Number=Plur
-     ,     ,SPACE,
 de,de,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 palestinos,palestino,NOUN,Gender=Masc|Number=Plur
@@ -13745,7 +13646,6 @@ permitirá,permitir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 solución,solución,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
 6,6,NUM,NumForm=Digit|NumType=Card
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 día,día,NOUN,Gender=Masc|Number=Sing
@@ -13932,16 +13832,14 @@ hacer,hacer,VERB,VerbForm=Inf
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
 escuchar,escuchar,VERB,VerbForm=Inf
 docentes,docente,ADJ,Number=Plur
-argentinos,argentino,ADJ,Gender=Masc|Number=Plur
+argentinos,argentino,NOUN,Gender=Masc|Number=Plur
 confederados,confederado,ADJ,Gender=Masc|Number=Plur|VerbForm=Part
-      ,      ,SPACE,
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 sindicato,sindicato,NOUN,Gender=Masc|Number=Sing
 santiagueño,santiagueño,ADJ,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
 docentes,docente,NOUN,Number=Plur
-sisadoc,sisadoc,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
- , ,SPACE,
+sisadoc,sisadoc,PROPN,
 y,y,CCONJ,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 unión,unión,PROPN,
@@ -14099,8 +13997,7 @@ sino,sino,CCONJ,
 una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
 negociación,negociación,NOUN,Gender=Fem|Number=Sing
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
-     ,     ,SPACE,
-diferencia,diferenciar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+diferencia,diferencia,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
 lo,él,PRON,Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs
 que,que,PRON,"PronType=Int,Rel"
@@ -14254,7 +14151,6 @@ el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 pensamiento,pensamiento,NOUN,Gender=Masc|Number=Sing
 político,político,ADJ,Gender=Masc|Number=Sing
 americano,americano,ADJ,Gender=Masc|Number=Sing
- , ,SPACE,
 steven,stevir,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 forde,forde,PROPN,
 denomina,denominar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -14285,8 +14181,7 @@ son,ser,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 útiles,útiles,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part
 hoy,hoy,ADV,
 en,en,ADP,AdpType=Prep
-día,día,NOUN,
- , ,SPACE,
+día,día,NOUN,Gender=Masc|Number=Sing
 siempre,siempre,ADV,
 y,y,CCONJ,
 cuando,cuando,SCONJ,
@@ -14360,9 +14255,8 @@ realeza,realeza,NOUN,Gender=Fem|Number=Sing
 y,y,CCONJ,
 a,a,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
-     ,     ,SPACE,
 ofrecer,ofrecer,VERB,VerbForm=Inf
-consejos,consejo,ADJ,Gender=Masc|Number=Plur
+consejos,consejo,NOUN,Gender=Masc|Number=Plur
 para,para,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 hombre,hombre,NOUN,Gender=Masc|Number=Sing
@@ -14425,8 +14319,7 @@ tratase,tratar,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
 de,de,ADP,AdpType=Prep
 vivir,vivir,VERB,VerbForm=Inf
 según,según,ADP,AdpType=Prep
-éstas,este,PRON,Gender=Fem|Number=Plur|PronType=Dem
- , ,SPACE,
+éstas,ésta,NOUN,Number=Plur
 entre,entre,ADP,AdpType=Prep
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
 que,que,PRON,"PronType=Int,Rel"
@@ -14441,8 +14334,7 @@ moderación,moderación,NOUN,Gender=Fem|Number=Sing
 y,y,CCONJ,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 humildad,humildad,NOUN,Gender=Fem|Number=Sing
- , ,SPACE,
-haría,haría,NOUN,Gender=Fem|Number=Sing
+haría,hacer,VERB,Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin
 de,de,ADP,AdpType=Prep
 sí,él,PRON,Case=Acc|Person=3|PrepCase=Pre|PronType=Prs|Reflex=Yes
 mismo,mismo,DET,Gender=Masc|Number=Sing|PronType=Dem
@@ -14534,7 +14426,6 @@ final,final,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
 su,su,DET,Number=Sing|Person=3|Poss=Yes|PronType=Prs
 vida,vida,NOUN,Gender=Fem|Number=Sing
-     ,     ,SPACE,
 pensilvania,pensilvania,PROPN,
 para,para,ADP,AdpType=Prep
 promover,promover,VERB,VerbForm=Inf
@@ -14708,7 +14599,6 @@ siguen,seguir,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 ofreciendo,ofrecer,VERB,VerbForm=Ger
 esa,ese,DET,Gender=Fem|Number=Sing|PronType=Dem
 ayuda,ayuda,NOUN,Gender=Fem|Number=Sing
-    ,    ,SPACE,
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 presidente,presidente,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
@@ -14878,7 +14768,7 @@ mandataria,mandataria,NOUN,Gender=Fem|Number=Sing
 tras,tras,ADP,AdpType=Prep
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
 paso,paso,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
+ , ,SPACE,
 pierde,perder,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 hay,haber,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 que,que,SCONJ,
@@ -15048,7 +14938,6 @@ contra,contra,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 ley,ley,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
 permite,permitir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 intervenir,intervenir,VERB,VerbForm=Inf
 casi,casi,ADV,
@@ -15247,9 +15136,8 @@ que,que,PRON,"PronType=Int,Rel"
 ha,haber,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 vivido,vivir,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
 y,y,CCONJ,
-nos,yo,PRON,"Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes"
-     ,     ,SPACE,
-pediátricas,pediátrica,NOUN,Gender=Fem|Number=Plur
+nos,yo,PRON,"Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs"
+pediátricas,pediátrica,ADJ,Gender=Fem|Number=Plur
 os,tú,PRON,"Case=Acc,Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs"
 recomiendo,recomeir,VERB,VerbForm=Ger
 que,que,SCONJ,
@@ -15417,7 +15305,6 @@ una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
 enfermedad,enfermedad,NOUN,Gender=Fem|Number=Sing
 llamada,llamado,ADJ,Gender=Fem|Number=Sing|VerbForm=Part
 esclerosis,esclerosis,NOUN,Gender=Fem
-     ,     ,SPACE,
 16,16,NUM,NumForm=Digit|NumType=Card
 veces,vez,NOUN,Gender=Fem|Number=Plur
 por,por,ADP,AdpType=Prep
@@ -15495,7 +15382,6 @@ podías,podíar,VERB,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
 estar,estar,VERB,VerbForm=Inf
 con,con,ADP,AdpType=Prep
 él,él,PRON,"Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs"
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 te,tú,PRON,"Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs"
 parecía,parecer,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
 normal,normal,ADJ,Number=Sing
@@ -15581,7 +15467,6 @@ su,su,DET,Number=Sing|Person=3|Poss=Yes|PronType=Prs
 cruel,cruel,ADJ,Number=Sing
 enfermedad,enfermedad,NOUN,Gender=Fem|Number=Sing
 que,que,PRON,"PronType=Int,Rel"
-     ,     ,SPACE,
 normal,normal,ADJ,Number=Sing
 no,no,ADV,Polarity=Neg
 tuvieron,tener,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
@@ -15636,8 +15521,7 @@ los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 otros,otro,DET,Gender=Masc|Number=Plur|PronType=Ind
 niños,niño,NOUN,Gender=Masc|Number=Plur
 ingresados,ingresado,ADJ,Gender=Masc|Number=Plur|VerbForm=Part
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
-llegasteis,llegastei,ADJ,Gender=Masc|Number=Plur
+llegasteis,llegasteis,ADJ,Gender=Masc|Number=Sing
 a,a,ADP,AdpType=Prep
 compartir,compartir,VERB,VerbForm=Inf
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
@@ -15751,7 +15635,6 @@ iré,ir,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
 a,a,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 tribunal,tribunal,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
 pararé,parar,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
 nunca,nunca,ADV,
 al,al,ADP,AdpType=Preppron
@@ -15794,7 +15677,6 @@ el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 síndic,síndic,PROPN,
 de,de,ADP,AdpType=Prep
 greuges,greuges,PROPN,
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 nos,yo,PRON,"Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs"
 cuentas,contar,VERB,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
@@ -15924,7 +15806,6 @@ entendían,entender,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
 por,por,ADP,AdpType=Prep
 qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
 no,no,ADV,Polarity=Neg
-     ,     ,SPACE,
 me,yo,PRON,"Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs"
 consta,constar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 así,así,ADV,
@@ -16095,7 +15976,6 @@ mi,mi,DET,Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs
 hospital,hospital,NOUN,Gender=Masc|Number=Sing
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 negaba,negar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
-     ,     ,SPACE,
 no,no,ADV,Polarity=Neg
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
@@ -16263,7 +16143,6 @@ a,a,ADP,AdpType=Prep
 nivel,nivel,NOUN,Gender=Masc|Number=Sing
 nacional,nacional,ADJ,Number=Sing
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
 para,para,ADP,AdpType=Prep
 después,después,ADV,
 mandar,mandar,VERB,VerbForm=Inf
@@ -16333,7 +16212,6 @@ seguías,seguía,NOUN,Gender=Fem|Number=Plur
 con,con,ADP,AdpType=Prep
 tu,tu,DET,Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
 lucha,lucha,NOUN,Gender=Fem|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
 tal,tal,PRON,PronType=Dem
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
@@ -16419,25 +16297,19 @@ gritar,gritar,VERB,VerbForm=Inf
 mamá,mamá,ADJ,Number=Plur
 no,no,ADV,Polarity=Neg
 te,tú,PRON,"Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs"
-vayas,vayar,VERB,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
- , ,SPACE,
+vayas,vayas,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
 no,no,ADV,Polarity=Neg
 me,yo,PRON,"Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 dejes,dej,NOUN,Gender=Masc|Number=Plur
 »,»,PUNCT,PunctType=Quot
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 por,por,ADP,AdpType=Prep
 favor,favor,NOUN,
 porque,porque,SCONJ,
-     ,     ,SPACE,
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 queda,quedar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 humanidad,humanidad,NOUN,Gender=Fem|Number=Sing
 en,en,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 mundo,mundo,NOUN,Gender=Masc|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 que,que,SCONJ,
 nadie,nadie,PRON,Number=Sing|PronType=Neg
@@ -16464,7 +16336,6 @@ trabajadores,trabajador,NOUN,Gender=Masc|Number=Plur
 de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 hospital,hospital,NOUN,Gender=Masc|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 pero,pero,CCONJ,
 no,no,ADV,Polarity=Neg
 han,haber,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
@@ -16478,10 +16349,8 @@ a,a,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 niños,niño,NOUN,Gender=Masc|Number=Plur
 calmado,calmado,ADJ,Gender=Masc|Number=Sing|VerbForm=Part
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 sin,sin,ADP,AdpType=Prep
 atar,atar,VERB,VerbForm=Inf
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 mano,mano,NOUN,Gender=Fem|Number=Sing
@@ -16516,7 +16385,6 @@ uci,uci,NOUN,Gender=Fem|Number=Sing
 en,en,ADP,AdpType=Prep
 algún,alguno,DET,Gender=Masc|Number=Sing|PronType=Ind
 momento,momento,NOUN,Gender=Masc|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 cuáles,cuál,PRON,"Number=Plur|PronType=Int,Rel"
 eran,ser,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
@@ -16596,7 +16464,6 @@ excusa,excusa,NOUN,Gender=Fem|Number=Sing
 mas,mas,PROPN,
 cruel,cruel,ADJ,Number=Sing
 que,que,SCONJ,
-     ,     ,SPACE,
 allí,allí,ADV,
 hay,haber,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 niños,niño,NOUN,Gender=Masc|Number=Plur
@@ -16768,8 +16635,7 @@ el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 neurodesarrollo,neurodesarrollo,NOUN,Gender=Masc|Number=Sing
 infantil,infantil,ADJ,Number=Sing
 sobre,sobre,ADP,AdpType=Prep
-     ,     ,SPACE,
-prevención,prevención,PROPN,
+prevención,prevención,NOUN,Gender=Fem|Number=Sing
 conflicto,conflicto,NOUN,Gender=Masc|Number=Sing
 con,con,ADP,AdpType=Prep
 botniaupm,botniaupm,PROPN,
@@ -16941,7 +16807,6 @@ de,de,ADP,AdpType=Prep
 derechos,derechos,NOUN,
 humanos,humanos,NOUN,
 cidh,cidh,ADJ,Number=Sing
-     ,     ,SPACE,
 gobernador,gobernador,NOUN,Gender=Masc|Number=Sing
 pedro,pedro,PROPN,
 busti,busti,PROPN,
@@ -17049,7 +16914,6 @@ de,de,ADP,AdpType=Prep
 ontur,ontur,PROPN,
 nueva,nuevo,ADJ,Gender=Fem|Number=Sing
 palmira,palmira,NOUN,Gender=Fem|Number=Sing
- , ,SPACE,
 destacó,destacar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 asambleísta,asambleísta,NOUN,Number=Sing
@@ -17063,7 +16927,6 @@ ese,ese,DET,Gender=Masc|Number=Sing|PronType=Dem
 marco,marco,NOUN,Gender=Masc|Number=Sing
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 preguntó,preguntar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
 hará,hacer,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
@@ -17107,14 +16970,12 @@ ordenar,ordenar,VERB,VerbForm=Inf
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 monitoreo,monitoreo,NOUN,Gender=Masc|Number=Sing
 ambiental,ambiental,ADJ,Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 botnia,botnia,PROPN,
 parará,parar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
 su,su,DET,Number=Sing|Person=3|Poss=Yes|PronType=Prs
 producción,producción,NOUN,Gender=Fem|Number=Sing
 hasta,hasta,ADP,AdpType=Prep
 enero,enero,NOUN,AdvType=Tim
-     ,     ,SPACE,
 y,y,CCONJ,
 con,con,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
@@ -17291,7 +17152,6 @@ en,en,ADP,AdpType=Prep
 nuestra,nuestro,DET,Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs
 salud,salud,NOUN,Gender=Fem|Number=Sing
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
-     ,     ,SPACE,
 programa,programa,NOUN,Gender=Masc|Number=Sing
 fuera,fuera,ADV,
 de,de,ADP,AdpType=Prep
@@ -17472,7 +17332,6 @@ por,por,ADP,AdpType=Prep
 valor,valor,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
 más,más,ADV,Degree=Cmp
-     ,     ,SPACE,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 deriva,derivo,ADJ,Gender=Fem|Number=Sing
 una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
@@ -17652,7 +17511,6 @@ en,en,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 chimenea,chimenea,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 uruguay,uruguay,PROPN,
 pero,pero,CCONJ,
@@ -17830,7 +17688,6 @@ madurando,madurar,VERB,VerbForm=Ger
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 idea,idea,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 realidad,realidad,NOUN,Gender=Fem|Number=Sing
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -17968,8 +17825,7 @@ y,y,CCONJ,
 justicia,justicia,PROPN,
 pablo,pablo,PROPN,
 blanco,blanco,PROPN,
-ucr,ucr,NUM,NumForm=Digit|NumType=Card
- , ,SPACE,
+ucr,ucr,PROPN,
 explicó,explicar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 alcances,alcance,NOUN,Gender=Masc|Number=Plur
@@ -18055,8 +17911,7 @@ analizaron,analizar,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
 por,por,ADP,AdpType=Prep
 más,más,ADV,Degree=Cmp
 de,de,ADP,AdpType=Prep
-un,uno,PRON,Gender=Masc|Number=Sing|PronType=Ind
-     ,     ,SPACE,
+un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 esto,este,PRON,Number=Sing|PronType=Dem
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 forma,formar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -18399,7 +18254,6 @@ existente,existente,ADJ,Number=Sing
 entre,entre,ADP,AdpType=Prep
 puntas,punta,NOUN,Gender=Fem|Number=Plur
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
 actual,actual,ADJ,Number=Sing
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 similar,similar,ADJ,Number=Sing
@@ -18411,8 +18265,7 @@ en,en,ADP,AdpType=Prep
 torno,torno,NOUN,
 de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
-7,7,NUM,NumForm=Digit|NumType=Card
- , ,SPACE,
+7,7,NOUN,AdvType=Tim
 con,con,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 medición,medición,NOUN,Gender=Fem|Number=Sing
@@ -18555,7 +18408,6 @@ de,de,ADP,AdpType=Prep
 iván,iván,PROPN,
 werning,werning,PROPN,
 acá,acá,ADV,
- , ,SPACE,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 idea,idea,NOUN,Gender=Fem|Number=Sing
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -18569,8 +18421,7 @@ tiempo,tiempo,NOUN,Gender=Masc|Number=Sing
 que,que,SCONJ,
 este,este,DET,Gender=Masc|Number=Sing|PronType=Dem
 tiempo,tiempo,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
-vacantes,vacante,NOUN,Gender=Masc|Number=Plur
+vacantes,vacante,ADJ,Number=Plur
 disponibles,disponible,ADJ,Number=Plur
 o,o,CCONJ,
 menos,menos,ADV,Degree=Cmp
@@ -18741,7 +18592,6 @@ valores,valor,NOUN,Gender=Masc|Number=Plur
 en,en,ADP,AdpType=Prep
 estados,estados,PROPN,
 unidos,unidos,PROPN,
-     ,     ,SPACE,
 volvió,volver,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 a,a,ADP,AdpType=Prep
 bajar,bajar,VERB,VerbForm=Inf
@@ -18916,7 +18766,6 @@ más,más,ADV,Degree=Cmp
 o,o,CCONJ,
 menos,menos,ADV,Degree=Cmp
 estable,estable,ADJ,Number=Sing
-     ,     ,SPACE,
 salarios,salario,NOUN,Gender=Masc|Number=Plur
 reales,real,ADJ,Number=Plur
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
@@ -19068,7 +18917,6 @@ promedio,promedio,NOUN,Gender=Masc|Number=Sing
 formales,formal,ADJ,Number=Plur
 e,e,CCONJ,
 informales,informal,ADJ,Number=Plur
- , ,SPACE,
 mostrando,mostrar,VERB,VerbForm=Ger
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 mercado,mercado,NOUN,Gender=Masc|Number=Sing
@@ -19088,7 +18936,6 @@ términos,término,NOUN,Gender=Masc|Number=Plur
 de,de,ADP,AdpType=Prep
 desempleo,desempleo,NOUN,Gender=Masc|Number=Sing
 2,2,NUM,NumForm=Digit|NumType=Card
-     ,     ,SPACE,
 2001,2001,NUM,NumForm=Digit|NumType=Card
 no,no,ADV,Polarity=Neg
 parece,parecer,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -19236,7 +19083,6 @@ estimulando,estimular,VERB,VerbForm=Ger
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 demanda,demanda,NOUN,Gender=Fem|Number=Sing
 agregada,agregado,ADJ,Gender=Fem|Number=Sing|VerbForm=Part
- , ,SPACE,
 algo,algo,PRON,Number=Sing|PronType=Ind
 que,que,PRON,"PronType=Int,Rel"
 además,además,ADV,
@@ -19258,7 +19104,6 @@ la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 tasa,tasa,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
 desempleo,desempleo,NOUN,Gender=Masc|Number=Sing
-      ,      ,SPACE,
 de,de,ADP,AdpType=Prep
 su,su,DET,Number=Sing|Person=3|Poss=Yes|PronType=Prs
 tasa,tasa,NOUN,Gender=Fem|Number=Sing
@@ -19273,7 +19118,7 @@ de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 economía,economía,NOUN,Gender=Fem|Number=Sing
 argentina,argentino,ADJ,Gender=Fem|Number=Sing
-      ,      ,SPACE,
+ , ,SPACE,
 asumiendo,asumir,VERB,VerbForm=Ger
 que,que,SCONJ,
 no,no,ADV,Polarity=Neg
@@ -19365,7 +19210,6 @@ fuese,ser,AUX,Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
 menor,menor,ADJ,Degree=Cmp|Number=Sing
 digamos,decir,VERB,Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
 5,5,NUM,NumForm=Digit|NumType=Card
- , ,SPACE,
 yo,yo,PRON,Case=Nom|Number=Sing|Person=1|PronType=Prs
 al,al,ADP,AdpType=Preppron
 menos,menos,ADV,Degree=Cmp
@@ -19422,7 +19266,6 @@ partir,partir,NOUN,
 de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 misma,mismo,PRON,Gender=Fem|Number=Sing|PronType=Dem
-     ,     ,SPACE,
 que,que,PRON,"PronType=Int,Rel"
 viene,venir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 aumentado,aumentado,ADJ,Gender=Masc|Number=Sing|VerbForm=Part
@@ -19593,7 +19436,6 @@ mismo,mismo,ADJ,Gender=Masc|Number=Sing
 para,para,ADP,AdpType=Prep
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
 horas,hora,NOUN,Gender=Fem|Number=Plur
-      ,      ,SPACE,
 que,que,PRON,"PronType=Int,Rel"
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 salario,salario,NOUN,Gender=Masc|Number=Sing
@@ -19644,7 +19486,6 @@ se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 transforman,transformar,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 en,en,ADP,AdpType=Prep
 desempleo,desempleo,NOUN,Gender=Masc|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 a,a,ADP,AdpType=Prep
 cuánto,cuánto,PRON,"Gender=Masc|NumType=Card|Number=Sing|PronType=Int,Rel"
 ascendería,ascender,VERB,Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin
@@ -19770,8 +19611,7 @@ explicacion,explicacion,NOUN,Gender=Fem|Number=Sing
 tecnica,tecnico,ADJ,Gender=Fem|Number=Sing
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 aumento,aumento,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
-2004,2004,NUM,NumForm=Digit|NumType=Card
+2004,2004,NOUN,AdvType=Tim
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 plan,plan,NOUN,Gender=Masc|Number=Sing
@@ -19939,7 +19779,6 @@ consideración,consideración,NOUN,Gender=Fem|Number=Sing
 teóricas,teórico,ADJ,Gender=Fem|Number=Plur
 y,y,CCONJ,
 prácticas,práctica,NOUN,Gender=Fem|Number=Plur
-     ,     ,SPACE,
 directamente,directamente,ADV,
 en,en,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
@@ -19960,8 +19799,7 @@ de,de,ADP,AdpType=Prep
 desempleo,desempleo,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
 18,18,NUM,NumForm=Digit|NumType=Card
- , ,SPACE,
-1995,1995,NUM,NumForm=Digit|NumType=Card
+1995,1995,NOUN,AdvType=Tim
 ya,ya,ADV,
 están,estar,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 repavimentando,repavimentar,VERB,VerbForm=Ger
@@ -20137,7 +19975,6 @@ tenía,tener,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
 ahora,ahora,ADV,
 estamos,estar,AUX,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
 haciendo,hacer,VERB,VerbForm=Ger
-     ,     ,SPACE,
 equipo,equipo,NOUN,Gender=Masc|Number=Sing
 que,que,PRON,"PronType=Int,Rel"
 te,tú,PRON,"Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs"
@@ -20350,7 +20187,6 @@ julián,julián,PROPN,
 alvarez,alvarez,PROPN,
 y,y,CCONJ,
 juncal,juncal,ADJ,Number=Sing
- , ,SPACE,
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 realizará,realizar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
@@ -20462,8 +20298,7 @@ canal,canal,NOUN,Gender=Masc|Number=Sing
 durante,durante,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 programa,programa,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
-varones,varón,NOUN,Gender=Masc|Number=Plur
+varones,varón,ADJ,Gender=Masc|Number=Plur
 y,y,CCONJ,
 cómo,cómo,PRON,PronType=Ind
 surgió,surgir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
@@ -20632,7 +20467,6 @@ vínculo,vínculo,NOUN,Gender=Masc|Number=Sing
 que,que,PRON,"PronType=Int,Rel"
 han,haber,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 establecido,establecer,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
-     ,     ,SPACE,
 también,también,ADV,
 ocurre,ocurrir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 que,que,SCONJ,
@@ -20760,7 +20594,6 @@ y,y,CCONJ,
 que,que,PRON,"PronType=Int,Rel"
 después,después,ADV,
 dice,decir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
- , ,SPACE,
 sólo,sólo,ADV,
 cuando,cuando,SCONJ,
 le,él,PRON,Case=Dat|Number=Sing|Person=3|PronType=Prs
@@ -20798,7 +20631,6 @@ sobre,sobre,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 roles,rol,NOUN,Number=Plur
 estereotipados,estereotipado,ADJ,Gender=Masc|Number=Plur|VerbForm=Part
-     ,     ,SPACE,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 igualdad,igualdad,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
@@ -20940,7 +20772,6 @@ de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 conducta,conducta,NOUN,Gender=Fem|Number=Sing
  , ,SPACE,
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
@@ -20963,7 +20794,6 @@ juegos,juego,NOUN,Gender=Masc|Number=Plur
 y,y,CCONJ,
 propuestas,propuesta,NOUN,Gender=Fem|Number=Plur
 interactivas,interactivo,ADJ,Gender=Fem|Number=Plur
-     ,     ,SPACE,
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 roles,rol,NOUN,Number=Plur
 estereotipados,estereotipado,ADJ,Gender=Masc|Number=Plur|VerbForm=Part
@@ -21038,7 +20868,6 @@ martes,martes,NOUN,
 febrero,febrero,NOUN,
 28,28,NUM,NumForm=Digit|NumType=Card
 2012,2012,NUM,NumForm=Digit|NumType=Card
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 pasó,pasar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 media,medio,NUM,Gender=Fem|NumType=Card|Number=Sing
 hora,hora,NOUN,Gender=Fem|Number=Sing
@@ -21185,8 +21014,8 @@ te,tú,PRON,"Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs"
 escribi,escribi,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
 en,en,ADP,AdpType=Prep
 tw,tw,PRON,Gender=Masc|Number=Sing|PronType=Dem
-     ,     ,SPACE,
-que,que,SCONJ,
+ , ,SPACE,
+que,que,PRON,"PronType=Int,Rel"
 aunque,aunque,SCONJ,
 alla,allar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 en,en,ADP,AdpType=Prep
@@ -21273,8 +21102,7 @@ escribia,escribiar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 por,por,ADP,AdpType=Prep
 varios,varios,DET,Gender=Masc|Number=Plur|PronType=Ind
 motivos,motivo,NOUN,Gender=Masc|Number=Plur
- , ,SPACE,
-fiaca,fiaca,NOUN,Gender=Fem|Number=Sing
+fiaca,fiacar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 no,no,ADV,Polarity=Neg
 poder,poder,AUX,VerbForm=Inf
 ordenar,ordenar,VERB,VerbForm=Inf
@@ -21347,8 +21175,7 @@ a,a,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 prensa,prensa,NOUN,Gender=Fem|Number=Sing
 amarilla,amarillo,ADJ,Gender=Fem|Number=Sing
-que,que,SCONJ,
- , ,SPACE,
+que,que,PRON,"PronType=Int,Rel"
 me,yo,PRON,"Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs"
 gusta,gustar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 mucho,mucho,ADV,
@@ -21442,8 +21269,7 @@ nota,notar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 ¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
 más,más,ADV,Degree=Cmp
-ah,ah,ADV,Polarity=Neg
-  ,  ,SPACE,
+ah,ah,ADV,
 usa,usa,NOUN,
 flequillo,flequillo,NOUN,Gender=Masc|Number=Sing
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -21478,8 +21304,7 @@ cbs,cbs,PROPN,
 con,con,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 cuales,cual,PRON,"Number=Plur|PronType=Int,Rel"
-me,yo,PRON,"Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes"
-      ,      ,SPACE,
+me,yo,PRON,"Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs"
 pues,pues,SCONJ,
 todo,todo,DET,Gender=Masc|Number=Sing|PronType=Tot
 eso,ese,PRON,Number=Sing|PronType=Dem
@@ -21509,7 +21334,6 @@ poco,poco,PRON,Gender=Masc|NumType=Card|Number=Sing|PronType=Ind
 tiempo,tiempo,NOUN,Gender=Masc|Number=Sing
 yo,yo,PRON,Case=Nom|Number=Sing|Person=1|PronType=Prs
 personalmente,personalmente,ADV,
- , ,SPACE,
 si,si,SCONJ,
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 que,que,SCONJ,
@@ -21555,7 +21379,6 @@ formar,formar,VERB,VerbForm=Inf
 una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
 buena,buen,ADJ,Gender=Fem|Number=Sing
 cantante,cantante,NOUN,Number=Sing
- , ,SPACE,
 lo,él,PRON,Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs
 cual,cual,PRON,"Number=Sing|PronType=Int,Rel"
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
@@ -21568,7 +21391,6 @@ se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 merece,merecer,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 elogio,elogio,NOUN,Gender=Masc|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 o,o,CCONJ,
 no,no,ADV,Polarity=Neg
 si,si,SCONJ,
@@ -21703,7 +21525,6 @@ qué,qué,PRON,"Number=Sing|PronType=Int,Rel"
 más,más,ADV,Degree=Cmp
 puedo,poder,AUX,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
 pedir,pedir,VERB,VerbForm=Inf
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 brillar,brillar,VERB,VerbForm=Inf
 bueno,bueno,ADJ,Gender=Masc|Number=Sing
 sí,sí,INTJ,
@@ -21767,8 +21588,7 @@ es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 cuasi,cuasi,ADJ,Gender=Fem|Number=Sing
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
 milagro,milagro,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
-sauna,sauna,NOUN,Gender=Fem
+sauna,sauna,NOUN,Gender=Fem|Number=Sing
 sola,solo,ADJ,Gender=Fem|Number=Sing
 envuelta,envuelta,NOUN,Gender=Fem|Number=Sing
 en,en,ADP,AdpType=Prep
@@ -21927,7 +21747,7 @@ no,no,ADV,Polarity=Neg
 hablo,hablar,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
 de,de,ADP,AdpType=Prep
 garchar,garchar,VERB,VerbForm=Inf
-     ,     ,SPACE,
+ , ,SPACE,
 vida,vida,NOUN,Gender=Fem|Number=Sing
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 comida,comida,NOUN,Gender=Fem|Number=Sing
@@ -22094,7 +21914,7 @@ sí,sí,INTJ,
 allí,allí,ADV,
 fui,ir,AUX,Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
 obvio,obvio,ADJ,Gender=Masc|Number=Sing
-     ,     ,SPACE,
+ , ,SPACE,
 debería,deber,AUX,Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin
 ir,ir,AUX,VerbForm=Inf
 a,a,ADP,AdpType=Prep
@@ -22349,7 +22169,6 @@ materia,materia,NOUN,Gender=Fem|Number=Sing
 consigue,conseguir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 que,que,SCONJ,
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
-     ,     ,SPACE,
 sin,sin,ADP,AdpType=Prep
 límites,límite,NOUN,Gender=Masc|Number=Plur
 que,que,PRON,"PronType=Int,Rel"
@@ -22514,9 +22333,8 @@ enfrentar,enfrentar,VERB,VerbForm=Inf
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 a,a,ADP,AdpType=Prep
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
-     ,     ,SPACE,
 le,él,PRON,Case=Dat|Number=Sing|Person=3|PronType=Prs
-obediencia,obedienciir,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+obediencia,obediencia,NOUN,Gender=Fem|Number=Sing
 le,él,PRON,Case=Dat|Number=Sing|Person=3|PronType=Prs
 estarás,estarás,NOUN,Gender=Masc|Number=Sing
 ayudando,ayudar,VERB,VerbForm=Ger
@@ -22685,7 +22503,6 @@ utilizando,utilizar,VERB,VerbForm=Ger
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 razonamiento,razonamiento,NOUN,Gender=Masc|Number=Sing
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
-     ,     ,SPACE,
 propia,propio,DET,Gender=Fem|Number=Sing|PronType=Ind
 conducta,conducta,NOUN,Gender=Fem|Number=Sing
 tendrá,tener,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
@@ -22852,7 +22669,7 @@ sigue,seguir,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 siendo,ser,AUX,VerbForm=Ger
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 rey,rey,NOUN,Gender=Masc|Number=Sing
-     ,     ,SPACE,
+ , ,SPACE,
 de,de,ADP,AdpType=Prep
 lo,él,PRON,Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs
 que,que,PRON,"PronType=Int,Rel"
@@ -22913,7 +22730,6 @@ adolescentes,adolescente,ADJ,Number=Plur
 agresivos,agresivo,ADJ,Gender=Masc|Number=Plur
 y,y,CCONJ,
 desafiantes,desafiant,NOUN,Number=Plur
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 son,ser,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 padres,padre,NOUN,Gender=Masc|Number=Plur
@@ -22927,7 +22743,6 @@ consentidos,consentido,ADJ,Gender=Masc|Number=Plur|VerbForm=Part
 y,y,CCONJ,
 mal,mal,ADV,
 educados,educado,ADJ,Gender=Masc|Number=Plur|VerbForm=Part
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 se,él,PRON,"Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
 puede,poder,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 educar,educar,VERB,VerbForm=Inf
@@ -23027,8 +22842,7 @@ dado,dar,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
 todo,todo,DET,Gender=Masc|Number=Sing|PronType=Tot
 lo,él,PRON,Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs
 que,que,PRON,"PronType=Int,Rel"
-los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
-     ,     ,SPACE,
+los,él,PRON,Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs
 había,haber,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
 ninguna,ninguno,DET,Gender=Fem|Number=Sing|PronType=Neg
 negativa,negativa,NOUN,Gender=Fem|Number=Sing
@@ -23206,7 +23020,6 @@ los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 de,de,ADP,AdpType=Prep
 moda,moda,NOUN,Gender=Fem|Number=Sing
 en,en,ADP,AdpType=Prep
-     ,     ,SPACE,
 de,de,ADP,AdpType=Prep
 verano,verano,NOUN,Gender=Masc|Number=Sing
 viajes,viaje,NOUN,Gender=Masc|Number=Plur
@@ -23381,7 +23194,6 @@ solamente,solamente,ADV,
 hay,haber,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
 voluntad,voluntad,NOUN,Gender=Fem|Number=Sing
-     ,     ,SPACE,
 a,a,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 profesionales,profesional,NOUN,Number=Plur
@@ -23554,7 +23366,6 @@ ve,ver,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 venir,venir,VERB,VerbForm=Inf
 cada,cada,DET,Number=Sing|PronType=Tot
 vez,vez,NOUN,Gender=Fem|Number=Sing
-     ,     ,SPACE,
 conocen,conocer,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 sus,su,DET,Number=Plur|Person=3|Poss=Yes|PronType=Prs
 puntos,punto,NOUN,Gender=Masc|Number=Plur
@@ -23668,7 +23479,6 @@ los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 regalos,regalo,NOUN,Gender=Masc|Number=Plur
 desmesurados,desmesurado,ADJ,Gender=Masc|Number=Plur|VerbForm=Part
 soluciones,solución,NOUN,Gender=Fem|Number=Plur
- , ,SPACE,
 enseñar,enseñar,VERB,VerbForm=Inf
 con,con,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
@@ -23728,7 +23538,6 @@ ropas,ropa,NOUN,Gender=Fem|Number=Plur
 restaurantes,restaurante,ADJ,Number=Plur
 viajes,viaje,NOUN,Gender=Masc|Number=Plur
 innecesarios,innecesario,ADJ,Gender=Masc|Number=Plur
-     ,     ,SPACE,
 placer,placer,NOUN,Gender=Masc|Number=Sing
 de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
@@ -23746,27 +23555,21 @@ virtud,virtud,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 ahorro,ahorro,NOUN,Gender=Masc|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 responsabilidad,responsabilidad,NOUN,Gender=Fem|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 moderación,moderación,NOUN,Gender=Fem|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 paciencia,paciencia,NOUN,Gender=Fem|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 de,de,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 tolerancia,tolerancia,NOUN,Gender=Fem|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 de,de,ADP,AdpType=Prep
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 sufrimiento,sufrimiento,NOUN,Gender=Masc|Number=Sing
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 de,de,ADP,AdpType=Prep
 todo,todo,DET,Gender=Masc|Number=Sing|PronType=Tot
 lo,él,PRON,Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs
@@ -23774,8 +23577,7 @@ que,que,PRON,"PronType=Int,Rel"
 supone,suponer,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 austeridad,austeridad,NOUN,Gender=Fem|Number=Sing
- , ,SPACE,
-respeto,respeto,NOUN,Gender=Masc|Number=Sing
+respeto,respeto,ADJ,Gender=Masc|Number=Sing
 con,con,ADP,AdpType=Prep
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 mayores,mayor,ADJ,Degree=Cmp|Number=Plur
@@ -23864,8 +23666,7 @@ unidad,unidad,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
 una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
 familia,familia,NOUN,Gender=Fem|Number=Sing
- , ,SPACE,
-orden,orden,NOUN,Gender=Fem|Number=Sing
+orden,orden,ADJ,Gender=Fem|Number=Sing
 si,si,SCONJ,
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 padres,padre,NOUN,Gender=Masc|Number=Plur
@@ -23876,7 +23677,6 @@ tienen,tener,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 casa,casa,NOUN,Gender=Fem|Number=Sing
 desordenada,desordenado,ADJ,Gender=Fem|Number=Sing|VerbForm=Part
-¿,¿,PUNCT,PunctSide=Ini|PunctType=Qest
 que,que,PRON,"PronType=Int,Rel"
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 lo,él,PRON,Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs
@@ -23897,7 +23697,6 @@ tareas,tarea,NOUN,Gender=Fem|Number=Plur
 escolares,escolar,ADJ,Number=Plur
 y,y,CCONJ,
 familiares,familiar,NOUN,Gender=Masc|Number=Plur
-      ,      ,SPACE,
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 ahorro,ahorro,NOUN,Gender=Masc|Number=Sing
 familiar,familiar,ADJ,Number=Sing
@@ -23939,8 +23738,7 @@ que,que,PRON,"PronType=Int,Rel"
 cuestan,costar,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 las,el,DET,Definite=Def|Gender=Fem|Number=Plur|PronType=Art
 cosas,cosa,NOUN,Gender=Fem|Number=Plur
- , ,SPACE,
-diferencias,diferencia,NOUN,Gender=Fem|Number=Plur
+diferencias,diferencia,ADJ,Gender=Fem|Number=Plur
 matrimoniales,matrimonial,ADJ,Number=Plur
 si,si,SCONJ,
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
@@ -23993,7 +23791,6 @@ irascibles,irascib él,VERB,Case=Dat|Number=Plur|Person=3|PronType=Prs|VerbForm=
 cuando,cuando,SCONJ,
 son,ser,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 contrariados,contrariar,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part
- , ,SPACE,
 educación,educación,NOUN,Gender=Fem|Number=Sing
 positiva,positivo,ADJ,Gender=Fem|Number=Sing
 basada,basado,ADJ,Gender=Fem|Number=Sing|VerbForm=Part
@@ -24110,10 +23907,9 @@ han,haber,AUX,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 hecho,hacer,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
 tus,tu,DET,Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs
 ojos,ojo,NOUN,Gender=Masc|Number=Plur
-lorena,lorena,VERB,Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin
+lorena,lorena,NOUN,Gender=Fem|Number=Sing
 muñozsergiowolf,muñozsergiowolf,PROPN,
-2003,2003,NUM,NumForm=Digit|NumType=Card
- , ,SPACE,
+2003,2003,NOUN,AdvType=Tim
 sobre,sobre,ADP,AdpType=Prep
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 vida,vida,NOUN,Gender=Fem|Number=Sing
@@ -24306,7 +24102,6 @@ compromiso,compromiso,NOUN,Gender=Masc|Number=Sing
 que,que,PRON,"PronType=Int,Rel"
 vemos,ver,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
 en,en,ADP,AdpType=Prep
-     ,     ,SPACE,
 lo,él,PRON,Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs
 elemental,elemental,ADJ,Number=Sing
 que,que,SCONJ,
@@ -24417,12 +24212,10 @@ proceso,proceso,NOUN,Gender=Masc|Number=Sing
 fue,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 tan,tanto,ADV,
 tremendo,tremendo,ADJ,Gender=Masc|Number=Sing
- , ,SPACE,
 continuó,continuar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 diciendo,decir,VERB,VerbForm=Ger
 el,el,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art
 gobernador,gobernador,NOUN,Gender=Masc|Number=Sing
- , ,SPACE,
 los,el,DET,Definite=Def|Gender=Masc|Number=Plur|PronType=Art
 intereses,interés,NOUN,Gender=Masc|Number=Plur
 que,que,PRON,"PronType=Int,Rel"
@@ -24474,7 +24267,6 @@ a,a,ADP,AdpType=Prep
 algunos,alguno,PRON,Gender=Masc|Number=Plur|PronType=Ind
 de,de,ADP,AdpType=Prep
 nosotros,yo,PRON,"Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs"
-     ,     ,SPACE,
 cristina,cristina,PROPN,
 hay,haber,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 que,que,SCONJ,
@@ -24485,7 +24277,6 @@ la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 y,y,CCONJ,
 apuntalar,apuntalar,VERB,VerbForm=Inf
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
- , ,SPACE,
 la,el,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art
 pérdida,pérdida,NOUN,Gender=Fem|Number=Sing
 fue,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
@@ -24643,7 +24434,6 @@ pero,pero,CCONJ,
 es,ser,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
 más,más,ADV,Degree=Cmp
 grande,grande,ADJ,Number=Sing
-     ,     ,SPACE,
 estamos,estar,AUX,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
 ocupando,ocupar,VERB,VerbForm=Ger
 un,uno,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
@@ -24717,10 +24507,8 @@ tengamos,tener,VERB,Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
 que,que,SCONJ,
 defender,defender,VERB,VerbForm=Inf
 nos,yo,PRON,"Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs"
- , ,SPACE,
 afirmó,afirmar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
-urribarri,urribarri,NOUN,Gender=Fem|Number=Sing
- , ,SPACE,
+urribarri,urribarri,PROPN,
 pero,pero,CCONJ,
 también,también,ADV,
 abrazar,abrazar,VERB,VerbForm=Inf
@@ -24812,7 +24600,6 @@ una,uno,DET,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
 fiel,fiel,ADJ,Number=Sing
 expresión,expresión,NOUN,Gender=Fem|Number=Sing
 de,de,ADP,AdpType=Prep
-     ,     ,SPACE,
 lo,él,PRON,Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs
 que,que,PRON,"PronType=Int,Rel"
 falta,faltar,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
